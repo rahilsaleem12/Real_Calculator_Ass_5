@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(255, 255, 255);
+    height: 800px;
+}
+section{
+    width: 50%;
+    height: 450px;
+    margin: 0% auto;
+    background-color: rgb(92, 91, 91);
+    margin-top: 100px;
+    border-radius: 10px;
+   
+}
+.input input{
+    width: 99%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(128, 123, 123);
+    color: white;
+    font-size: 30px;
+    text-align: right;
+}
+ button{
+    width: 24%;
+    height: 60px;
+    background-color: rgb(92, 91, 91);
+    color: rgb(80, 184, 16);
+    border: none;
+    border-radius: 10px;
+font-size: 30px;
+}
+.equal button{
+    background-color: rgb(80, 184, 16);
+    color: white;
+}
+button:hover{
+color: rgb(255, 255, 255);
+font-size: 35px;
+}
+.abc1 button{
+   color: white; 
+}
+.abc2 button{
+    color: white; 
+ }
+ .abc3 button{
+    color: white; 
+ }
+ .abc4 button{
+    color: white; 
+ }
+ .abc5 button{
+    color: white; 
+ }
+ .abc6 button{
+    color: white; 
+ }
+ .abc7 button{
+    color: white; 
+ }
+ .abc8 button{
+    color: white; 
+ }
+ .abc9 button{
+    color: white; 
+ }
+ .abc0 button{
+    color: white; 
+ }
+ .abc00 button{
+    color: white; 
+ }
+.abcdot button{
+    color: white;
+}
